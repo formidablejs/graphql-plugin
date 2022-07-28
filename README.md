@@ -80,7 +80,7 @@ export class Config < ConfigRepository
 			graphql
 ```
 
-And finally test your GraphQL api:
+And finally test your GraphQL API:
 
 ```bash
 # serve application
